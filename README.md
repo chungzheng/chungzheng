@@ -4,7 +4,7 @@
 - Ask me about evapotranspiration.
 
 ## Connect with me:
-LinkedIn: https://www.linkedin.com/in/avery-davis-09s/  
+LinkedIn: https://www.linkedin.com/in/avery-s-davis/
 Email: averydavis9@proton.me
 <!---
 chungzheng/chungzheng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
