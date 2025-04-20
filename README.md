@@ -1,7 +1,7 @@
 # Hi, I'm Avery!
 - I'm a student at Khan Lab School.
-- Linux user since parthenogensis
-- Ask me about evapotranspiration
+- Linux user since parthenogensis.
+- Ask me about evapotranspiration.
 
 ## Connect with me:
 LinkedIn: https://www.linkedin.com/in/avery-davis-09s/  
