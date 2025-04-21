@@ -1,6 +1,6 @@
 # Hi, I'm Avery!
 - I'm a student at Khan Lab School.
-- Linux user since parthenogensis.
+- Fun fact: The first OS I ever used was Linux/GNU!
 - Ask me about evapotranspiration.
 
 ## Connect with me:
