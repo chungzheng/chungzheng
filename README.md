@@ -1,5 +1,4 @@
 # Hi, I'm Avery!
-- I'm a student at Khan Lab School.
 - Fun fact: The first computer I used was a thinkpad running GNU/Linux.
 - Ask me about evapotranspiration!
 
